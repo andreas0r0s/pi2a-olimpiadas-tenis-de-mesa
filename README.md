@@ -49,6 +49,12 @@ Projeto de PI2A sobre sistema de coleta e organização de dados de partidas de 
 # Pré-requisitos
 
 **Versão do Python utilizada**: `3.12.1`
+- recomendação: instalar Python pelo gerenciador de versões do python ([para Linux/macOS](https://github.com/pyenv/pyenv) ou [para Windows](https://github.com/pyenv-win/pyenv-win))
+- caso contrário: instalar [Python `3.12.1`](https://www.python.org/downloads/release/python-3121/) (navegue até o final da página para baixar o instalador)
+
+**Use o módulo `venv` do Python**:
+- [Python.land - Ambiente virtual](https://python.land/virtual-environments/virtualenv)
+- [Real Python - Ambientes virtuais Python: orientações iniciais](https://realpython.com/python-virtual-environments-a-primer/)
 
 # Créditos
 
