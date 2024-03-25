@@ -1,11 +1,6 @@
----
-title: "README"
-author: Andreas <script.mux@pm.me>
-date: 2024-03-25
----
 <h1 align="center">
   <a href="https://github.com/script0mux/pi2a-olimpiadas-tenis-de-mesa" title="Olimpíadas: tênis de mesa">
-    <img alt="Tênis de mesa" src="./recursos/table-tennis.svg" width="150px" height="150px" />
+    <img alt="Tênis de mesa" src="./recursos/tabletennis.svg" width="150px" height="150px" />
   </a>
   <br />
   Olimpíadas: tênis de mesa
