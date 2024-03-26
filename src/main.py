@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''main.py
-Descricao:          arquivo principal do sistema `pi2a-olimpiadas-tenis-de-mesa`.
+Descricao: arquivo principal do sistema `pi2a-olimpiadas-tenis-de-mesa`.
 '''
 import os
 
@@ -28,7 +28,9 @@ def main():
         print("\nInício do programa 'olimpiadas-tenis-de-mesa'."
               + "\n 0. Sair"
               + "\n 1. Criar nova partida e inserir dados"
-              + "\n 2. Editar dados de outra partida")
+              + "\n 2. Editar dados de outra partida"
+              + "\n 3. Remover partida"
+              + "\n 4. Enviar dados para servidor")
 
         opcao = input("\nEscolha uma opção: ")
 
