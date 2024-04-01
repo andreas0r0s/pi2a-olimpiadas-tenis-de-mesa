@@ -77,7 +77,9 @@ Data de **início** do projeto: `19/02/2024`
 2. **Configuração do ambiente:** preparar o ambiente de desenvolvimento, incluindo a instalação de bibliotecas e ferramentas necessárias.
 
 **Progresso**:
-- ***2024-04-01***: 
+- ***2024-04-01***: adição do cronograma.
+- ***2024-03-24***: criação do repositório no GitHub e indicação da linguagem Python para desenvolvimento do sistema assim como do banco de dados MongoDB para implantação do banco de dados do sistema.
+- ***2024-03-17***: criação de documentos de análise de requisitos ([documento de especificação de requisitos incompleto e diagramas de caso de uso](https://drive.google.com/drive/folders/10fFgTaW1bK3qeFcxF7HUteDXzLn2WICm?usp=drive_link))
 
 ## Semana 3 a 4: desenvolvimento backend
 
