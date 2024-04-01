@@ -64,10 +64,20 @@ Projeto de PI2A sobre sistema de coleta e organização de dados de partidas de 
 
 Cronograma para entrega em etapas do projeto (sujeito à modificações).
 
+Data de **início** do projeto: `19/02/2024`
+
+**Prazos**:
+1. ***DD/MM/2024***: .
+2. ***DD/MM/2024***: .
+3. ***DD/MM/2024***: .
+
 ## Semana 1 a 2: configuração inicial e preparação
 
 1. **Análise de requisitos:** compreender completamente os requisitos e as especificações das funcionalidades.
 2. **Configuração do ambiente:** preparar o ambiente de desenvolvimento, incluindo a instalação de bibliotecas e ferramentas necessárias.
+
+**Progresso**:
+- ***2024-04-01***: 
 
 ## Semana 3 a 4: desenvolvimento backend
 
