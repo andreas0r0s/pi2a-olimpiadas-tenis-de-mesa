@@ -71,7 +71,7 @@ Data de **início** do projeto: `19/02/2024`
 2. ***DD/MM/2024***: .
 3. ***DD/MM/2024***: .
 
-## Semana 1 a 2: configuração inicial e preparação
+## Etapa 1 (17/03 a 30/03): configuração inicial e preparação
 
 1. **Análise de requisitos:** compreender completamente os requisitos e as especificações das funcionalidades.
 2. **Configuração do ambiente:** preparar o ambiente de desenvolvimento, incluindo a instalação de bibliotecas e ferramentas necessárias.
@@ -81,7 +81,7 @@ Data de **início** do projeto: `19/02/2024`
 - ***2024-03-24***: criação do repositório no GitHub e indicação da linguagem Python para desenvolvimento do sistema assim como do banco de dados MongoDB para implantação do banco de dados do sistema.
 - ***2024-03-17***: criação de documentos de análise de requisitos ([documento de especificação de requisitos incompleto e diagramas de caso de uso](https://drive.google.com/drive/folders/10fFgTaW1bK3qeFcxF7HUteDXzLn2WICm?usp=drive_link))
 
-## Semana 3 a 4: desenvolvimento backend
+## Etapa 2 (31/03 a 13/04): desenvolvimento backend
 
 1. **Definir a estrutura do banco de dados para armazenar os dados da partida;**
 2. **Desenvolver a funcionalidade para criar uma nova partida e inserir os dados no banco de dados;**
@@ -90,33 +90,33 @@ Data de **início** do projeto: `19/02/2024`
 5. **Implementar a funcionalidade de remoção de partidas;**
 6. **Desenvolver a lógica para remover os dados da partida do banco de dados.**
 
-## Semana 5 a 6: integração e testes
+## Etapa 3 (14/04 a 20/04): integração e testes
 
 1. **Testes de unidade**: criar e executar testes de unidade para as funcionalidades desenvolvidas.
 2. **Integração com o banco de dados**: garantir que todas as operações de bancos de dados estejam funcionando corretamente.
 
-## Semana 7 a 8: desenvolvimento da API e integração
+## Etapa 4 (21/04 a 27/05): desenvolvimento da API e integração
 
 1. **Desenvolver uma API para permitir o envio de dados das partidas para um servidor externo;**
 2. **Testar a integração da API com o sistema.**
 
-## Semana 9 a 10: desenvolvimento do frontend
+## Etapa 5 (28/04 a 04/05): desenvolvimento do frontend
 
 1. **Desenvolver uma interface de usuário intuitiva e responsiva para interagir com as funcionalidades do sistema;**
 2. **Integrar o frontend com o backend através de requisições HTTP.**
 
-## Semana 11 a 12: desenvolvimento do dashboard estatístico esportivo
+## Etapa 6 (05/05 a 11/05): desenvolvimento do dashboard estatístico esportivo
 
 1. **Desenvolver um dashboard para visualizar estatísticas e probabilidades esportivas das partidas de tênis de mesa;**
 2. **Integrar o dashboard com o backend a fim de obter e exibir os dados estatísticos atualizados**.
 
-## Semana 13: revisão final e testes
+## Etapa 7 (12/05 a 18/05): revisão final e testes
 
 **Teste de integração**: realizar testes de integração para verificar se as partes do sistema trabalham bem juntas ou se precisam de adaptações.
 
 **Revisão de código**: revisar o código-fonte a fim de seguir as melhores práticas de programação e facilitar a sua manutenção.
 
-## Semana 14: entrega e implantação
+## Etapa 8 (12/05 a 18/05): entrega e implantação
 
 **Implantação**: preparar sistema para ambiente de produção (instalação e configuração em máquinas utilizadas no torneio ou pelos árbitros).
 
